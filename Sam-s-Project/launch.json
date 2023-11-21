@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "LoginSystem",
+            "request": "launch",
+            "mainClass": "databasemanager.LoginSystem",
+            "projectName": "Sam's Java Project_eef85cf2"
+        },
+        {
+            "type": "java",
+            "name": "LoginSystem",
+            "request": "launch",
+            "mainClass": "LoginSystem",
+            "projectName": "Sam's Java Project_eef85cf2"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "LoginSystem",
+            "request": "launch",
+            "mainClass": "LoginSystem",
+            "projectName": "Java Project_d8ef4d9d"
+        },
+        {
+            "type": "java",
+            "name": "DatabaseManager$InventoryApplication",
+            "request": "launch",
+            "mainClass": "databasemanager.DatabaseManager$InventoryApplication",
+            "projectName": "Java Project_d8ef4d9d"
+        },
+        {
+            "type": "java",
+            "name": "ProductDisplay",
+            "request": "launch",
+            "mainClass": "product.ProductDisplay",
+            "projectName": "Java Project_d8ef4d9d"
+        }
+    ]
+}
